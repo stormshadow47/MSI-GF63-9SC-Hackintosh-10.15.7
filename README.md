@@ -9,18 +9,24 @@ Laptop Specs:
 - LAN: Realtek Gbe
 
 What's working:
-- Integratd Graphics.
+- Intel UHD630 igpu with 1536 MB.
 - WiFi(Ac9560) both 2.4Ghz and 5Ghz bands.
 - Bluetooth and audio throuh bluetooth.
 - Ethernet( Have to set MAC address manually in system preferences).
 - USB Ports.
-- Sleep and wake.
+- Sleep/wake functionality.
 - Keyboard and Trackpad.
 - Onboard speakers.
 - 3.5mm Audio and Mic jacks.
+- iMessage and FaceTime.
 
 What's broken:
 - GTX 1650 max-q eGPU (disabled,obviously).
 - Onboard webcam.
 
+Note:
+- I'd recommend creating your own kext and ACPI files as these files aren't guaranteed to work even on identical systems. I've uploaded these files as a guide to what all files are needed for this specific machine.
+- Following Dortania's OC guide is highly recommended. It is the go to guide for hackintoshing and read it as if you're a pastor reading the bible.
+- To fix iMessage and FaceTime, I had to resort to an unholy method of contacting apple support. Got my account blacklisted after attemting to sign in with an error ridden platfrom infromation in my config.plist. 
+- I've since fixed my plist file and after contacting apple support, iMessage works just fine.
 
