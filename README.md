@@ -29,4 +29,5 @@ Note:
 - Following Dortania's OC guide is highly recommended. It is the go to guide for hackintoshing and read it as if you're a pastor reading the bible.
 - To fix iMessage and FaceTime, I had to resort to an unholy method of contacting apple support. Got my account blacklisted after attemting to sign in with an error ridden platfrom infromation in my config.plist. 
 - I've since fixed my plist file and after contacting apple support, iMessage works just fine.
+- Haven't tested the HDMI output yet. I'll update if it works or not after testing.
 
