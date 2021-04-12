@@ -9,8 +9,8 @@ Laptop Specs:
 - LAN: Realtek Gbe
 
 What's working:
-- Intel UHD630 igpu with 1536 MB.
-- WiFi(Ac9560) both 2.4Ghz and 5Ghz bands.
+- Intel UHD 630 igpu with 1536 MB.
+- WiFi(AC9560) both 2.4Ghz and 5Ghz bands.
 - Bluetooth and audio throuh bluetooth.
 - Ethernet( Have to set MAC address manually in system preferences).
 - USB Ports.
