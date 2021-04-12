@@ -3,14 +3,14 @@ MacOS Catalina 10.15.7 runs perfectly with full hardware acceleration and no iss
 
 Laptop Specs:
 - CPU: Intel Core i5 9300H
-- GPU: Nvidia gtx 1650 max-q
-- RAM: 16GB DDR4-2666Mhz
+- GPU: Nvidia GTX 1650 max-q
+- RAM: 16GB DDR4-2666 MHz
 - WI-FI: Intel Wireless AC9560
 - LAN: Realtek Gbe
 
 What's working:
-- Intel UHD 630 igpu with 1536 MB.
-- WiFi(AC9560) both 2.4Ghz and 5Ghz bands.
+- Intel UHD 630 iGPU with 1536 MB.
+- WiFi(AC9560) both 2.4GHz and 5GHz bands.
 - Bluetooth and audio through bluetooth.
 - Ethernet( Have to set MAC address manually in system preferences).
 - USB Ports.
