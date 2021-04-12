@@ -1,5 +1,5 @@
 # MSI-GF63-9SC-Hackintosh-10.15.7[Opencore 0.6.7]
-MacOS runs perfectly with full hardware acceleration and no issues so far. 
+MacOS Catalina 10.15.7 runs perfectly with full hardware acceleration and no issues so far. I'll update this repository after uprading to Big Sur later on.
 
 Laptop Specs:
 - CPU: Intel Core i5 9300H
