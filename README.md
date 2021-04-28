@@ -19,10 +19,11 @@ What's working:
 - Onboard speakers.
 - 3.5mm Audio and Mic jacks.
 - iMessage and FaceTime.
+- Onboard Webcam.
 
 What's broken:
 - GTX 1650 max-q eGPU (disabled,obviously).
-- Onboard webcam.
+
 
 Note:
 - I'd recommend creating your own kext and ACPI files as these files aren't guaranteed to work even on identical systems. I've uploaded these files as a guide to what all files are needed for this specific machine.
