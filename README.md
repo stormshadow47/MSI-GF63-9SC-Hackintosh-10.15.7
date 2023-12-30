@@ -28,7 +28,7 @@ What's broken:
 Note:
 - I'd recommend creating your own kext and ACPI files as these files aren't guaranteed to work even on identical systems. I've uploaded these files as a guide to what all files are needed for this specific machine.
 - Following Dortania's OC guide is highly recommended. It is the go to guide for hackintoshing.
-- To fix iMessage and FaceTime, I had to resort to an unholy method of contacting apple support. Got my account blacklisted after attemting to sign in with an error ridden platfrom infromation in my config.plist. 
+- To fix iMessage and FaceTime, I had to resort to contacting apple support. Got my account blacklisted after attemting to sign in with an error ridden platfrom infromation in my config.plist. 
 - I've since fixed my plist file and after contacting apple support, iMessage works just fine.
 - Haven't tested the HDMI output yet. I'll update if it works or not after testing.
 
